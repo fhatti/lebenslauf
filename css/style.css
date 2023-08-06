@@ -1,0 +1,369 @@
+/*
+        -----LEFT SIDE-------
+*/
+
+.about-me
+{
+    padding-left: 40px;
+    font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+    margin-bottom:-10px;
+        margin-top:40px;
+}
+
+.about-me span
+{
+    padding-left: 7px;
+}
+
+.about-me-dob{
+
+    margin-top:10px;
+    margin-bottom:-10px;
+}
+
+.about-me-gender
+{
+    margin-top: 10px;
+        margin-bottom: -10px;
+}
+
+.about-me-nationality
+{
+    margin-top: 10px;
+        margin-bottom: -10px;
+}
+
+.contacts-email 
+{
+    color: #4489FF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.contacts-element 
+{
+margin-top: -20px;
+}
+
+.contacts-item
+{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+
+}
+
+.contacts-information img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding-top:10px;
+}
+
+.contacts-info{
+    text-align: center;
+}
+
+.contacts-information a{
+    font-size:14px;
+}
+
+.contacts-information
+{
+    padding-left:40px;
+}
+.contacts-information-header
+{
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+
+.contacts-phone-number
+{
+    color: #4489FF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+   
+
+}
+
+
+
+
+.languages
+{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.languages-header
+{
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.languages-list
+{
+    color: #161D2A;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.language-level
+{
+    color:#6096FF;
+    text-align: center;
+}
+
+
+.sidebar-image
+{
+    margin-top:40px;
+   
+    
+}
+
+.sidebar-section
+{
+    background-color: #DFEEFF;
+    max-width: 380px;
+  
+}
+
+.soft-skills {
+
+    margin-left:40px;
+
+}
+
+.soft-skilss-header {
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.soft-skills-list {
+    color: #161D2A;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+table
+{
+    margin-left:-40px;
+    margin-top: -10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+        ------RIGHT-SIDE
+*/
+.about-me-right-side
+{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: -30px;
+}
+
+.education
+{
+    margin-top:40px;
+}
+
+.education-header
+{
+    font-size:22px;
+    font-weight: 700;
+}
+
+.education-center
+{
+  margin-top:-10px;
+}
+
+.education-place
+{
+    color: #6D9BF5;
+        margin-bottom: -10px;
+}
+
+.education-certificate
+{
+    color: #595959;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+}
+
+.education-certificate-info
+{
+    color: #595959;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        margin-top:-20px;
+}
+
+.hobby
+{
+    margin-top:40px;
+}
+
+.hobby-header
+{
+    font-size:22px;
+    font-weight:700;
+}
+
+.hobby-table
+{
+
+    margin-top:40px;
+    width:100%;
+}
+
+
+.hobby-logo img
+{
+    width:50px;
+}
+
+.hobby-meaning
+{
+    text-align:center;
+}
+
+.right-side
+{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 180px;
+
+}
+
+.work-experience
+{
+    margin-top:40px;
+}
+
+.work-experience-header
+{
+    font-size:22px;
+    font-weight: 700;
+
+}
+
+.work-experience-company
+{
+    margin-top:-10px;
+   
+}
+
+.work-experience-company-name
+{
+    color: #6D9BF5;
+    margin-bottom:-10px;
+  
+}
+
+.work-experience-company-address
+{
+    color: #595959;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+       
+}
+
+.work-experience-company-time
+{
+    color: #A8A8A8;
+        font-size: 12px;
+        font-weight: 400;
+        margin-top: -10px;
+}
+
+.work-experience-company-role
+{
+color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+    
+    margin-top: -5px;
+}
+
+
+
+
+
+
+
+
+
+/*
+
+            -----APP----
+
+*/
+
+
+ body 
+ {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F6F6FA;
+ }
+
+ .my-app
+ {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color: #ffff;
+ }
